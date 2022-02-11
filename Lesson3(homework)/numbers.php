@@ -18,3 +18,4 @@ if($firstNumber > $secondNumber && $firstNumber > $thirdNumber) {
 } else if ($firstNumber === $secondNumber || $firstNumber === $thirdNumber) {
     echo "$firstNumber";
 }
+
